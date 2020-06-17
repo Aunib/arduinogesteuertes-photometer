@@ -3,6 +3,9 @@
 
    Dieser Code wurde von Simon Steinberg im Rahmen der vorbereitung auf die MSA-Präsentationsprüfung im Schuljahr 2019/2020 erstellt.
 
+
+   Dieses Werk kann genutzt und geteilt werden unter einer Creative Commons NonCommercial-ShareAlike 4.0 International Licensze. (CC BY-NC-SA 4.0)
+   Als Namensnennung ist anzugeben: Simon Steinberg, 2020.
 */
 
 
